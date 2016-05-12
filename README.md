@@ -22,7 +22,7 @@ Firstly, we clear catalogue to avoid duplication of files
 
 Next download all ppt files from website
 
-wget -r -np -l 1 -A ppt -nd http://www.igf.fuw.edu.pl/meteo/stacja/wyklady/AnalizaInformacjiMeteo/
+    wget -r -np -l 1 -A ppt -nd http://www.igf.fuw.edu.pl/meteo/stacja/wyklady/AnalizaInformacjiMeteo/
 
 ```
 -r,  --recursive          specify recursive download.
